@@ -4,7 +4,7 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
 
 ## Seattle Area Restaurants
 
-- Joey Bellevue ([#italian](#italian))
+- Joey Bellevue (_#italian_)
 
   Address:
   800 Bellevue Way NE Ste 118, Bellevue, WA 98004
@@ -12,7 +12,7 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
 
   > Notes; Ravioli Bianco, Molten chocolate cake, Sushi and Salmon are good
 
-- Cantinetta ([#italian](#italian))
+- Cantinetta (_#italian_)
 
   Address:
   10038 Main St, Bellevue, WA 98004
@@ -32,7 +32,7 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   401 Bellevue Square, Bellevue, WA 98004
   https://goo.gl/maps/bb5LRgVAJu6UaNfx5
 
-- Cafe Volace ([#italian](#italian))
+- Cafe Volace (_#italian_)
 
   Address:
   12514 120th Ave NE, Kirkland, WA 98034
@@ -44,7 +44,7 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   6049 Seaview Ave NW, Seattle, WA 98107
   https://g.page/RaysBoathouse?share
 
-- Salt District ([#italian](#italian))
+- Salt District (_#italian_)
 
   Address:
   1101 Alaskan Way #102, Pier 55, Seattle, WA 98101
@@ -74,7 +74,7 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   115 Park Ln, Kirkland, WA 98033
   https://goo.gl/maps/EY9EH4xNp9BjGAYb6
 
-- Volterra ([#italian](#italian))
+- Volterra (_#italian_)
 
   Address:
   121 Kirkland Ave, Kirkland, WA 98033
