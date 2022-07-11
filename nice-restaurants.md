@@ -28,7 +28,9 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
 
 - Cheesecake Factory
 
-  Address: Next to Bellevue Square in Bellevue
+  Address:
+  401 Bellevue Square, Bellevue, WA 98004
+  https://goo.gl/maps/bb5LRgVAJu6UaNfx5
 
 - Cafe Volace
 
