@@ -85,3 +85,9 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   Address:
   7824 Leary Way NE, Redmond, WA 98052
   https://goo.gl/maps/1tRKJ7h1zcB2
+
+- Din Tai Fung (Thai)
+
+  Address:
+  700 Bellevue Way NE, #280, Bellevue, WA 98004
+  https://goo.gl/maps/hmSD77udNqguydV4A
