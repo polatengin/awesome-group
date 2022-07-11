@@ -38,9 +38,11 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   12514 120th Ave NE, Kirkland, WA 98034
   https://goo.gl/maps/5cfuuUEKK4Zg4gCi8
 
-- Rays Cafe
+- Rays Boathouse
 
-  Address: Ballard, on the water
+  Address:
+  6049 Seaview Ave NW, Seattle, WA 98107
+  https://g.page/RaysBoathouse?share
 
 - Salt District
 
