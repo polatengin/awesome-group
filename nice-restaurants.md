@@ -62,7 +62,7 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   2401 2nd Ave, Seattle, WA 98121
   https://goo.gl/maps/cf5VD29BnCuHEi3A7
 
-- Maximilien Restaurant
+- Maximilien Restaurant ([#french](#french))
 
   Address:
   81A Pike St, Pike Place Market, Seattle, WA 98101
