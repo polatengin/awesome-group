@@ -56,9 +56,11 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   103 102nd Ave SE, Bellevue, WA 98004
   https://goo.gl/maps/jcLCehqsfwviBjyf7
 
-- Shiros (Japanese)
+- Shiro's Sushi (Japanese)
 
-  Address: Seattle
+  Address:
+  2401 2nd Ave, Seattle, WA 98121
+  https://goo.gl/maps/cf5VD29BnCuHEi3A7
 
 - Maximilien Restaurant
 
