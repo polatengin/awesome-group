@@ -74,7 +74,7 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   115 Park Ln, Kirkland, WA 98033
   https://goo.gl/maps/EY9EH4xNp9BjGAYb6
 
-- Volterra
+- Volterra ([#italian](#italian))
 
   Address:
   121 Kirkland Ave, Kirkland, WA 98033
