@@ -68,7 +68,7 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   81A Pike St, Pike Place Market, Seattle, WA 98101
   https://g.page/maximilienrestaurant?share
 
-- Feast ([#brasserie](#brasserie))
+- Feast (_#brasserie_)
 
   Address:
   115 Park Ln, Kirkland, WA 98033
