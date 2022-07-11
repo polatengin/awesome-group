@@ -91,3 +91,9 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   Address:
   700 Bellevue Way NE, #280, Bellevue, WA 98004
   https://goo.gl/maps/hmSD77udNqguydV4A
+
+- Arnies Restaurant (_#seafood_)
+
+  Address:
+  300 Admiral Way, Edmonds, WA 98020
+  https://g.page/arnies-restaurant-edmonds?share
