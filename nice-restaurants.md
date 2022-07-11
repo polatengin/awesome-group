@@ -64,7 +64,9 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
 
 - Maximilien Restaurant
 
-  Address: Pike Place Market, waterfront
+  Address:
+  81A Pike St, Pike Place Market, Seattle, WA 98101
+  https://g.page/maximilienrestaurant?share
 
 - Feast
 
