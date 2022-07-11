@@ -80,7 +80,7 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   121 Kirkland Ave, Kirkland, WA 98033
   https://goo.gl/maps/NQzSpcXD8kLeVP1HA
 
-- Matador ([#mexican](#mexican))
+- Matador (_#mexican_)
 
   Address:
   7824 Leary Way NE, Redmond, WA 98052
