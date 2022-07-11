@@ -34,7 +34,9 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
 
 - Cafe Volace
 
-  Address: Totem Lake
+  Address:
+  12514 120th Ave NE, Kirkland, WA 98034
+  https://goo.gl/maps/5cfuuUEKK4Zg4gCi8
 
 - Rays Cafe
 
