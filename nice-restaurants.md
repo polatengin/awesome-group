@@ -79,3 +79,9 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   Address:
   121 Kirkland Ave, Kirkland, WA 98033
   https://goo.gl/maps/NQzSpcXD8kLeVP1HA
+
+- Matador
+
+  Address:
+  7824 Leary Way NE, Redmond, WA 98052
+  https://goo.gl/maps/1tRKJ7h1zcB2
