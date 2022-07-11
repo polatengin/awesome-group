@@ -18,9 +18,11 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   10038 Main St, Bellevue, WA 98004
   https://goo.gl/maps/LNU44g4RwX8fDdsb8
 
-- ?? (Spanish)
+- Castilla (Spanish)
 
-  Address: Next to Crate and Barrel in Bellevue
+  Address:
+  504 Bellevue Square, Bellevue, WA 98004
+  https://g.page/castillarestaurant?share
 
   > Notes; Tortilla, Paella with rice on black ink and Tapas are good
 
