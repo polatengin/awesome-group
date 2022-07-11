@@ -44,9 +44,11 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   6049 Seaview Ave NW, Seattle, WA 98107
   https://g.page/RaysBoathouse?share
 
-- Salt District
+- Salt District (Italian)
 
-  Address: Pier 55, Seattle Downtown
+  Address:
+  1101 Alaskan Way #102, Pier 55, Seattle, WA 98101
+  https://goo.gl/maps/pTGdoSTEPp6tz13C8
 
 - Ginza (Japanese)
 
