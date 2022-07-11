@@ -97,3 +97,9 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   Address:
   300 Admiral Way, Edmonds, WA 98020
   https://g.page/arnies-restaurant-edmonds?share
+
+- Russell's Restaurant (_#pacific_northwest_)
+
+  Address:
+  3305 Monte Villa Pkwy, Bothell, WA 98021
+  https://g.page/RussellsBothell?share
