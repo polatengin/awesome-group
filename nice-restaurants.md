@@ -50,13 +50,13 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
   1101 Alaskan Way #102, Pier 55, Seattle, WA 98101
   https://goo.gl/maps/pTGdoSTEPp6tz13C8
 
-- Ginza ([#japanese](#japanese))
+- Ginza (_#japanese_)
 
   Address:
   103 102nd Ave SE, Bellevue, WA 98004
   https://goo.gl/maps/jcLCehqsfwviBjyf7
 
-- Shiro's Sushi ([#japanese](#japanese))
+- Shiro's Sushi (_#japanese_)
 
   Address:
   2401 2nd Ave, Seattle, WA 98121
