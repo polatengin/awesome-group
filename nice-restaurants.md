@@ -52,7 +52,9 @@ If you're on the look for a nice restaurant, to celebrate a special day, like an
 
 - Ginza (Japanese)
 
-  Address: Bellevue
+  Address:
+  103 102nd Ave SE, Bellevue, WA 98004
+  https://goo.gl/maps/jcLCehqsfwviBjyf7
 
 - Shiros (Japanese)
 
